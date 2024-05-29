@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZioTogni
 - 👀 I’m interested in learning more about the world of programming.
 - 🌱 I’m currently learning Python.
-- ⚡ Fun fact: I want to continue this passion to become a programmer.
+- ⚡ Fun fact: I want to continue this passion to become a programmer and I'm having fun.
